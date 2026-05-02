@@ -1,0 +1,18 @@
+{
+  "name": "數繹工作室 numera.studio",
+  "short_name": "數繹工作室",
+  "description": "數繹工作室 numera.studio 協助台灣中小企業將預算管理、應收帳款、主管月報與標案財務健檢流程，升級為 AI 自動化儀表板與即時通知。",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#00B4B4",
+  "lang": "zh-Hant-TW",
+  "icons": [
+    {
+      "src": "logo_數繹_white.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

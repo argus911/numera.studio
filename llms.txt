@@ -1,0 +1,10 @@
+# 數繹工作室 numera.studio
+
+數繹工作室 numera.studio 協助台灣中小企業將預算管理、應收帳款、主管月報與標案財務健檢流程，升級為 AI 自動化儀表板與即時通知。
+
+## 主要頁面
+- 首頁: https://argus911.github.io/numera/
+- 預算追蹤儀表板 Demo: https://argus911.github.io/numera/demo/budget/
+- 應收帳款管家 Demo: https://argus911.github.io/numera/demo/ar/
+- 主管月報自動產生器 Demo: https://argus911.github.io/numera/demo/report/
+- 標案財務健檢 Demo: https://argus911.github.io/numera/demo/bid/
